@@ -106,7 +106,6 @@ input:focus {
   flex-direction: column;
   padding-left: 15px;
   color: #5f6368;
-  width: 80px;
   overflow-x: hidden;
 }
 .active {
@@ -127,7 +126,7 @@ input:focus {
 .sidebar-item .sidebar-text {
     color: black;
     font-size: 0.9rem;
-    margin-left: 20px;
+   
   }
 .sidebar-item:nth-child(1) {
   margin-top: 5px;
